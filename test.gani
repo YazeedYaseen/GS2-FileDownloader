@@ -1,0 +1,15 @@
+GANI0001
+SPRITE    0         SPRITES    0    0   24   12 shadow
+SPRITE    1       block.png    0    0   32   32 New Sprite
+DEFAULTBODY body.png
+DEFAULTHEAD head1.png
+DEFAULTSHIELD shield1.png
+DEFAULTSWORD sword1.png
+
+ANI
+   0  12  34
+   0  12  36
+   0  12  34,    1   9  18
+   0  12  36
+
+ANIEND
