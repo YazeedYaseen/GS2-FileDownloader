@@ -1,0 +1,1 @@
+nickname_blacklist = Testing123,Money,Skunkrumpa
